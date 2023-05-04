@@ -1,4 +1,5 @@
 const languageNativeNames = {
+  lv: 'Latviešu',
   ar: 'العربية',
   ca: 'Català',
   cs: 'Čeština',
